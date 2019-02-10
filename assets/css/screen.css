@@ -597,9 +597,8 @@ License: https://www.wowthemes.net/freebies-license/
          margin-bottom:-50px;
          margin-top: 3rem;
          padding:0;
-         height:350px;
+         height:100px;
          border-radius:0;
-         background-image: url(../images/jumbotron.jpg);
          background-size:cover;
     }
      .jumbotron.fortags .col-md-4 {
@@ -614,7 +613,6 @@ License: https://www.wowthemes.net/freebies-license/
          margin-top: 3rem;
          padding:0;
          border-radius:0;
-         background-image: url(../images/jumbotron.jpg);
          background-size:cover;
 }
  .jumbotron.fortags a {
