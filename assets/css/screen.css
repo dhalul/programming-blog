@@ -588,22 +588,20 @@ License: https://www.wowthemes.net/freebies-license/
  iframe {
     max-width:100%;
 }
-.transpdark {    
-    background: rgba(0,0,0,0.75);
-    color: #fff;
+.transpdark {   
+    color: rgba(0,0,0,0.75);
 }
  @media (min-width:768px) {
      .jumbotron.fortags {
          margin-bottom:-50px;
          margin-top: 3rem;
          padding:0;
-         height:100px;
+         height:66px;
          border-radius:0;
          background-size:cover;
     }
      .jumbotron.fortags .col-md-4 {
-         background:rgba(0,0,0,0.75);
-         color:#fff;
+         color:rgba(0,0,0,0.75)
     }
      .jumbotron.fortags .row {
          margin:0;
