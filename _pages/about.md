@@ -150,9 +150,9 @@ Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll
 <p>Terima kasih telah berkunjung ke situs ini, jika ingin melakukan kontak langsung silahkan isi form berikut.</p>
 
 <form method="POST" action="https://formspree.io/dhal@programming.my.id">
-  <input class="form-control" type="email" name="email" placeholder="E-mail anda">
-  <input class="form-control" type="text" name="subjek" placeholder="Subjek">
-  <textarea class="form-control" name="message" placeholder="Isi Pesan"></textarea>
+  <input class="form-control" type="email" name="email" placeholder="E-mail anda"><br/>
+  <input class="form-control" type="text" name="subjek" placeholder="Subjek"><br/>
+  <textarea class="form-control" name="message" placeholder="Isi Pesan"></textarea><br/>
   <button class="btn btn-primary" type="submit">Kirim Pesan</button>
 </form>
 
