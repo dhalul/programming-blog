@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Selamat datang di Programming.my.id"
+title:  "Selamat Datang :)"
 author: dhal
 categories: [ pengumuman ]
 image: assets/images/selamat-datang.jpg
@@ -12,7 +12,7 @@ hidden: false
 
 >Sumber : Wikipedia
 
-## Apa itu Programming.my.id
+## Apa itu Programming (dot) my (dot) id
 
 Programming.my.id adalah situs berbagi dan menyediakan informasi mengenai teknologi, secara khusus programming mulai dari tutorial, berita, tools, dll dan saya berharap bisa membagi sedikit apa saya ketahui kepada teman-teman.
 
