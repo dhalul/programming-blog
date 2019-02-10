@@ -4,7 +4,7 @@ description: "No two things have been combined better than Knowledge and Patienc
 meta_description: "No two things have been combined better than Knowledge and Patience."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: 'https://programming.my.id/'
+baseurl: ''
 google_analytics: ''
 disqus: 'programming-my-id'
 include: ["_pages"]
