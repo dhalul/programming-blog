@@ -610,6 +610,7 @@ License: https://www.wowthemes.net/freebies-license/
 .jumbotron.fortags { 
          margin-top: 3rem;
          padding:0;
+         padding-bottom:25px;
          border-radius:0;
          background-size:cover;
 }
