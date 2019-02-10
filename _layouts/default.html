@@ -141,12 +141,8 @@ ga('send', 'pageview');
 ================================================== -->
 <div class="jumbotron fortags">
 	<div class="d-md-flex h-100">
-		<div class="col-md-4 transpdark align-self-center text-center h-40">
-            <div class="d-md-flex align-items-center justify-content-center h-40">
-                <h5 class="d-md-block py-1 font-weight-light" style="margin-top:15px;">Kategori</h5>
-            </div>
-		</div>
-		<div class="col-md-8 text-center" style="padding-top: 20px;">      
+        <div class="col-md-12 text-center" style="padding-top: 20px;">
+            <h6 href="/kategori#pengumuman" style="padding-bottom: 5px;">Kategori :</h6>      
             {% assign categories_list = site.categories %}
             {% if categories_list.first[0] == null %}
             {% for category in categories_list %}
