@@ -4,11 +4,12 @@ description: "Jekyll Template for Blogging"
 meta_description: "Jekyll template, Medium styled, free for bloggers."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: 'http://programming.my.id'
+baseurl: /mediumish-theme-jekyll
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-permalink: /:categories/:year/:month/:day/:title:output_ext
+include: ["_pages"]
+permalink: /:title/
 
 # Authors
 authors:
@@ -32,6 +33,9 @@ authors:
 # Plugins
 plugins: 
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-archives
     
 # Archives
