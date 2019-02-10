@@ -10,6 +10,8 @@ comments: false
 
 <p>Tidak ada yang spesial tentang saya, hanya ingin sekedar membagi apa yang saya ketahui.</p>
 
+
+
 <h4>Punya pertanyaan atau ingin diskusi?</h4>
 
 Kontak saya menggunakan form disamping atau ke email secara langsung.
