@@ -4,7 +4,7 @@ title:  "Selamat Datang :)"
 author: dhal
 categories: [ pengumuman ]
 image: assets/images/selamat-datang.jpg
-featured: true
+featured: false
 hidden: false
 ---
 
