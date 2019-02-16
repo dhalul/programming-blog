@@ -1,0 +1,3 @@
+Sitemap: https://programming.my.id/sitemap.xml
+Disallow: /404.html
+Disallow: /sitemap.xml
