@@ -40,8 +40,8 @@ tablevs: tpricing
 <br/><br/>
 ## C VS C++
 
-<div class="container">
-    <div class="panel pricing-table">
+<div class="tablevs-container">
+    <div class="tablevs-panel pricing-table">
         
         <div class="pricing-plan">
         <img src="https://programming.my.id/assets/images/cpp/c-logo.png" alt="C" class="pricing-img">
