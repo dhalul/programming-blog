@@ -37,14 +37,15 @@ tablevs: tpricing
 | Extensi File            | .c, .cc, .cpp, .cxx, .c++, .h, .hh, .hpp, .hxx, .h++                                                           |
 | Compiler                | GCC/g++ (sama seperti C). Daftar Lengkapnya bisa dilihat di https://go.programming.my.id/list-of-c++-compiler) |
 
+<br/><br/>
 ## C VS C++
 
 <div class="container">
     <div class="panel pricing-table">
         
         <div class="pricing-plan">
-        <img src="https://s22.postimg.cc/8mv5gn7w1/paper-plane.png" alt="" class="pricing-img">
-        <h2 class="pricing-header">Personal</h2>
+        <img src="https://programming.my.id/assets/images/cpp/c-logo.png" alt="C" class="pricing-img">
+        <h2 class="pricing-header">C</h2>
         <ul class="pricing-features">
             <li class="pricing-features-item">Custom domains</li>
             <li class="pricing-features-item">Sleeps after 30 mins of inactivity</li>
@@ -54,8 +55,8 @@ tablevs: tpricing
         </div>
         
         <div class="pricing-plan">
-        <img src="https://s21.postimg.cc/tpm0cge4n/space-ship.png" alt="" class="pricing-img">
-        <h2 class="pricing-header">Enterprise</h2>
+        <img src="https://programming.my.id/assets/images/cpp/cpp-logo.png" alt="C++" class="pricing-img">
+        <h2 class="pricing-header">C++</h2>
         <ul class="pricing-features">
             <li class="pricing-features-item">Dedicated</li>
             <li class="pricing-features-item">Simple horizontal scalability</li>
@@ -66,6 +67,6 @@ tablevs: tpricing
         
     </div>
 </div>
-
+<br/><br/>
 ## Compiler / IDE
 
