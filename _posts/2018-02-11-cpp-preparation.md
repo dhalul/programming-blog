@@ -59,26 +59,27 @@ tablevs: tpricing
                             <div class="generic_head_content clearfix">
                                 <div class="head_bg"></div>
                                 <div class="head">
-                                    <span>C</span>
+                                    <span>Bahasa C</span>
                                 </div>
                             </div>
                             <div class="generic_price_tag clearfix">	
                                 <span class="price">
-                                    <img src="https://programming.my.id/assets/images/cpp/c-logo.png" draggable="false"/>
+                                    <img src="https://programming.my.id/assets/images/cpp/c-logo.png" width="20%" draggable="false"/>
                                 </span>
                             </div>
                         </div>                          
                         <div class="generic_feature_list">
                         	<ul>
-                            	<li><span>2GB</span> Bandwidth</li>
-                                <li><span>150GB</span> Storage</li>
-                                <li><span>12</span> Accounts</li>
-                                <li><span>7</span> Host Domain</li>
-                                <li><span>24/7</span> Support</li>
+                            	<li><span>Prosedural</span></li>
+                                <li><span>Multi Platform</span> (Desktop)</li>
+                                <li>Sangat <span>Ringan</span></li>
+                                <li>Dipengaruhi oleh <span>B (BCPL,CPL), ALGOL 68, Assembly</span></li>
+                                <li>Mempengaruhi <span>awk, csh, C++, Objective-C, dll</span></li>
+                                <li>Baik untuk <span>System Level Code</span></li>
                             </ul>
                         </div>
                         <div class="generic_price_btn clearfix">
-                        	<a class="" href="">Sign up</a>
+                        	<a class="https://id.wikipedia.org/wiki/C_(bahasa_pemrograman)" href="">Lihat di Wikipedia</a>
                         </div>
                     </div>
                 </div>
@@ -88,26 +89,27 @@ tablevs: tpricing
                             <div class="generic_head_content clearfix">
                                 <div class="head_bg"></div>
                                 <div class="head">
-                                    <span>C++</span>
+                                    <span>Bahasa C++</span>
                                 </div>
                             </div>
                             <div class="generic_price_tag clearfix">	
                                 <span class="price">
-                                    <img src="https://programming.my.id/assets/images/cpp/cpp-logo.png" draggable="false"/>
+                                    <img src="https://programming.my.id/assets/images/cpp/cpp-logo.png" width="20%" draggable="false"/>
                                 </span>
                             </div>
                         </div>                            
                         <div class="generic_feature_list">
                         	<ul>
-                            	<li><span>2GB</span> Bandwidth</li>
-                                <li><span>150GB</span> Storage</li>
-                                <li><span>12</span> Accounts</li>
-                                <li><span>7</span> Host Domain</li>
-                                <li><span>24/7</span> Support</li>
+                            	<li>Mendukung <span>OOP</span></li>
+                                <li><span>Multi Platform</span> (Desktop)</li>
+                                <li><span>Ringan</span></li>
+                                <li>Dipengaruhi oleh <span>C, Simula, Ada 83, ALGOL 68, CLU, ML</span></li>
+                                <li>Mempengaruhi <span>C#, Java, PHP, D</span></li>
+                                <li>Baik untuk <span>Server Side Applications, drivers, networking, dll</span></li>
                             </ul>
                         </div>
                         <div class="generic_price_btn clearfix">
-                        	<a class="" href="">Sign up</a>
+                        	<a class="https://id.wikipedia.org/wiki/C++" href="">Lihat di Wikipedia</a>
                         </div>
                     </div>
                 </div>
