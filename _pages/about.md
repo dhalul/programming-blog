@@ -12,7 +12,7 @@ comments: false
 
 <p>Template Utama (Mediumish) : <a href="https://www.wowthemes.net/mediumish-free-jekyll-template">https://www.wowthemes.net/mediumish-free-jekyll-template</a></p>
 <p>Pricing Table (Travis Williamson) : <a href="https://codepen.io/travisw/pen/EvbKwd">https://codepen.io/travisw/pen/EvbKwd</a></p>
-
+<br/><br/>
 <h4>Punya pertanyaan atau ingin diskusi?</h4>
 
 Kontak saya menggunakan form disamping atau ke email secara langsung.
