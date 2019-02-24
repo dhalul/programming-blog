@@ -19,99 +19,79 @@ table: true
 <br/><br/>
 ## Bahasa C
 <br/>
-<div class="container">
-	<div class="row">
-		<div class="md-12">
-			<div class="wrap-table100">
-				<div class="table100">
-					<table>
-						<thead>
-							<tr class="table100-head">
-								<th>Nama Bahasa Pemrograman</th>
-								<th>C (/siː/, as in the letter c)</th>
-							</tr>
-						</thead>
-						<tbody>
-								<tr>
-									<td>Paradigma Pemrograman</td>
-									<td>Imperative (procedural), structured</td>
-								</tr>
-								<tr>
-									<td>Developer</td>
-									<td>Dennis Ritchie & Bell Labs(creators); ANSI X3J11 (ANSI C); ISO/IEC JTC1/SC22/WG14 (ISO C)</td>
-								</tr>
-								<tr>
-									<td>Pertama kali muncul</td>
-									<td>1972, 47 Tahun yang lalu (dari tahun 2019)</td>
-								</tr>
-								<tr>
-									<td>Rilis Terakhir</td>
-									<td>C18 / Juni 2018, 8 bulan yang lalu</td>
-								</tr>
-								<tr>
-									<td>Extensi File</td>
-									<td>.c .h</td>
-								</tr>
-								<tr>
-									<td>Compiler</td>
-									<td>GCC/gcc (untuk os berbasis UNIX seperti Linux biasanya compiler sudah terdapat dari bawaan, sedangkan untuk windows harus mendownload aplikasi pihak ketiga seperti MinGW, Cygwin atau memakai Windows Subsytem For Linux (Fitur di Windows 10). Daftar Lengkapnya bisa dilihat <a href="https://go.programming.my.id/list-of-c-compiler">disini</a></td>
-								</tr>
-						</tbody>
-					</table>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
+<table class="table">
+  	<thead class="thead-dark">
+		<tr>
+			<th>Nama Bahasa Pemrograman</th>
+			<th>C (/siː/, as in the letter c)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Paradigma Pemrograman</td>
+			<td>Imperative (procedural), structured</td>
+		</tr>
+		<tr>
+			<td>Developer</td>
+			<td>Dennis Ritchie & Bell Labs(creators); ANSI X3J11 (ANSI C); ISO/IEC JTC1/SC22/WG14 (ISO C)</td>
+		</tr>
+		<tr>
+			<td>Pertama kali muncul</td>
+			<td>1972, 47 Tahun yang lalu (dari tahun 2019)</td>
+		</tr>
+		<tr>
+			<td>Rilis Terakhir</td>
+			<td>C18 / Juni 2018, 8 bulan yang lalu</td>
+		</tr>
+		<tr>
+			<td>Extensi File</td>
+			<td>.c .h</td>
+		</tr>
+		<tr>
+			<td>Compiler</td>
+			<td>GCC/gcc (untuk os berbasis UNIX seperti Linux biasanya compiler sudah terdapat dari bawaan, sedangkan untuk windows harus mendownload aplikasi pihak ketiga seperti MinGW, Cygwin atau memakai Windows Subsytem For Linux (Fitur di Windows 10). Daftar Lengkapnya bisa dilihat <a href="https://go.programming.my.id/list-of-c-compiler">disini</a></td>
+		</tr>
+	</tbody>
+</table>
 
 <br/><br/>
 ## Bahasa C++
 <br/>
 
-<div class="container">
-	<div class="row">
-		<div class="md-12">
-			<div class="wrap-table100">
-				<div class="table100">
-					<table>
-						<thead>
-							<tr class="table100-head">
-								<th>Nama Bahasa Pemrograman</th>
-								<th>C++ / C-plus-plus / (/ˌsiːˌplʌsˈplʌs/ “see plus plus”)</th>
-							</tr>
-						</thead>
-						<tbody>
-								<tr>
-									<td>Paradigma Pemrograman</td>
-									<td>Multi-paradigma : procedural, functional, object-oriented</td>
-								</tr>
-								<tr>
-									<td>Developer</td>
-									<td>Bjarne Stroustrup</td>
-								</tr>
-								<tr>
-									<td>Pertama kali muncul</td>
-									<td>1985, 34 Tahun yang lalu (dari tahun 2019)</td>
-								</tr>
-								<tr>
-									<td>Rilis Terakhir</td>
-									<td>ISO/IEC 14882:2017 / 1 Desember 2017, 14 bulan yang lalu</td>
-								</tr>
-								<tr>
-									<td>Extensi File</td>
-									<td>.c, .cc, .cpp, .cxx, .c++, .h, .hh, .hpp, .hxx, .h++</td>
-								</tr>
-								<tr>
-									<td>Compiler</td>
-									<td>GCC/g++ (penjelasan sama seperti C). Daftar Lengkapnya bisa dilihat <a href="https://go.programming.my.id/list-of-c++-compiler">disini</a></td>
-								</tr>
-						</tbody>
-					</table>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
+<table class="table">
+  	<thead class="thead-dark">
+		<tr>
+			<th>Nama Bahasa Pemrograman</th>
+			<th>C++ / C-plus-plus / (/ˌsiːˌplʌsˈplʌs/ “see plus plus”)</th>
+		</tr>
+	</thead>
+	<tbody>
+			<tr>
+				<td>Paradigma Pemrograman</td>
+				<td>Multi-paradigma : procedural, functional, object-oriented</td>
+			</tr>
+			<tr>
+				<td>Developer</td>
+				<td>Bjarne Stroustrup</td>
+			</tr>
+			<tr>
+				<td>Pertama kali muncul</td>
+				<td>1985, 34 Tahun yang lalu (dari tahun 2019)</td>
+			</tr>
+			<tr>
+				<td>Rilis Terakhir</td>
+				<td>ISO/IEC 14882:2017 / 1 Desember 2017, 14 bulan yang lalu</td>
+			</tr>
+			<tr>
+				<td>Extensi File</td>
+				<td>.c, .cc, .cpp, .cxx, .c++, .h, .hh, .hpp, .hxx, .h++</td>
+			</tr>
+			<tr>
+				<td>Compiler</td>
+				<td>GCC/g++ (penjelasan sama seperti C). Daftar Lengkapnya bisa dilihat <a href="https://go.programming.my.id/list-of-c++-compiler">disini</a></td>
+			</tr>
+	</tbody>
+</table>
 
 <br/><br/>
 <div id="generic_price_table">   
