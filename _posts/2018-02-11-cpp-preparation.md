@@ -64,7 +64,7 @@ tablevs: tpricing
                             </div>
                             <div class="generic_price_tag clearfix">	
                                 <span class="price">
-                                    <img src="https://programming.my.id/assets/img/cpp/c-logo.png" draggable="false"/>
+                                    <img src="https://programming.my.id/assets/images/cpp/c-logo.png" draggable="false"/>
                                 </span>
                             </div>
                         </div>                          
@@ -93,7 +93,7 @@ tablevs: tpricing
                             </div>
                             <div class="generic_price_tag clearfix">	
                                 <span class="price">
-                                    <img src="https://programming.my.id/assets/img/cpp/cpp-logo.png" draggable="false"/>
+                                    <img src="https://programming.my.id/assets/images/cpp/cpp-logo.png" draggable="false"/>
                                 </span>
                             </div>
                         </div>                            

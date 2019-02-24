@@ -5,13 +5,9 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900);
 
-#generic_price_table{
-	background-color: #f0eded;
-}
 
-/*PRICE COLOR CODE START*/
 #generic_price_table .generic_content{
-	background-color: #fff;
+	background-color: #f6f6f659;
 }
 
 #generic_price_table .generic_content .generic_head_price{
