@@ -38,8 +38,6 @@ tablevs: tpricing
 | Compiler                | GCC/g++ (sama seperti C). Daftar Lengkapnya bisa dilihat di https://go.programming.my.id/list-of-c++-compiler) |
 
 <br/><br/>
-## C VS C++
-
 <div id="generic_price_table">   
 <section>
         <div class="container">
@@ -47,7 +45,7 @@ tablevs: tpricing
                 <div class="col-md-12">
                     <!--PRICE HEADING START-->
                     <div class="price-heading clearfix">
-                        <h1>Bootstrap Pricing Table</h1>
+                        <h1>C VS C++</h1>
                     </div>
                     <!--//PRICE HEADING END-->
                 </div>
@@ -55,21 +53,18 @@ tablevs: tpricing
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <div class="generic_content clearfix">
                         <div class="generic_head_price clearfix">
                             <div class="generic_head_content clearfix">
                                 <div class="head_bg"></div>
                                 <div class="head">
-                                    <span>Basic</span>
+                                    <span>C</span>
                                 </div>
                             </div>
                             <div class="generic_price_tag clearfix">	
                                 <span class="price">
-                                    <span class="sign">$</span>
-                                    <span class="currency">99</span>
-                                    <span class="cent">.99</span>
-                                    <span class="month">/MON</span>
+                                    <img src="https://programming.my.id/assets/img/cpp/c-logo.png" draggable="false"/>
                                 </span>
                             </div>
                         </div>                          
@@ -87,56 +82,21 @@ tablevs: tpricing
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <div class="generic_content active clearfix">
                         <div class="generic_head_price clearfix">
                             <div class="generic_head_content clearfix">
                                 <div class="head_bg"></div>
                                 <div class="head">
-                                    <span>Standard</span>
+                                    <span>C++</span>
                                 </div>
                             </div>
                             <div class="generic_price_tag clearfix">	
                                 <span class="price">
-                                    <span class="sign">$</span>
-                                    <span class="currency">199</span>
-                                    <span class="cent">.99</span>
-                                    <span class="month">/MON</span>
+                                    <img src="https://programming.my.id/assets/img/cpp/cpp-logo.png" draggable="false"/>
                                 </span>
                             </div>
                         </div>                            
-                        <div class="generic_feature_list">
-                        	<ul>
-                            	<li><span>2GB</span> Bandwidth</li>
-                                <li><span>150GB</span> Storage</li>
-                                <li><span>12</span> Accounts</li>
-                                <li><span>7</span> Host Domain</li>
-                                <li><span>24/7</span> Support</li>
-                            </ul>
-                        </div>
-                        <div class="generic_price_btn clearfix">
-                        	<a class="" href="">Sign up</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="generic_content clearfix">
-                        <div class="generic_head_price clearfix">
-                            <div class="generic_head_content clearfix">
-                                <div class="head_bg"></div>
-                                <div class="head">
-                                    <span>Unlimited</span>
-                                </div>
-                            </div>
-                            <div class="generic_price_tag clearfix">	
-                                <span class="price">
-                                    <span class="sign">$</span>
-                                    <span class="currency">299</span>
-                                    <span class="cent">.99</span>
-                                    <span class="month">/MON</span>
-                                </span>
-                            </div>
-                        </div>                      
                         <div class="generic_feature_list">
                         	<ul>
                             	<li><span>2GB</span> Bandwidth</li>
