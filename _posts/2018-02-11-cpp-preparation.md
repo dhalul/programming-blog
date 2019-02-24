@@ -16,7 +16,9 @@ table: true
 
 >Sumber : Wikipedia
 
-
+<br/><br/>
+## Bahasa C
+<br/>
 <div class="container">
 	<div class="row">
 		<div class="md-12">
@@ -25,126 +27,34 @@ table: true
 					<table>
 						<thead>
 							<tr class="table100-head">
-								<th class="column1">Date</th>
-								<th class="column2">Order ID</th>
-								<th class="column3">Name</th>
-								<th class="column4">Price</th>
-								<th class="column5">Quantity</th>
-								<th class="column6">Total</th>
+								<th class="column1">Nama Bahasa Pemrograman</th>
+								<th class="column2">C (/siː/, as in the letter c)</th>
 							</tr>
 						</thead>
 						<tbody>
 								<tr>
-									<td class="column1">2017-09-29 01:22</td>
-									<td class="column2">200398</td>
-									<td class="column3">iPhone X 64Gb Grey</td>
-									<td class="column4">$999.00</td>
-									<td class="column5">1</td>
-									<td class="column6">$999.00</td>
+									<td class="column1">Paradigma Pemrograman</td>
+									<td class="column2">Imperative (procedural), structured</td>
 								</tr>
 								<tr>
-									<td class="column1">2017-09-28 05:57</td>
-									<td class="column2">200397</td>
-									<td class="column3">Samsung S8 Black</td>
-									<td class="column4">$756.00</td>
-									<td class="column5">1</td>
-									<td class="column6">$756.00</td>
+									<td class="column1">Developer</td>
+									<td class="column2">Dennis Ritchie & Bell Labs(creators); ANSI X3J11 (ANSI C); ISO/IEC JTC1/SC22/WG14 (ISO C)</td>
 								</tr>
 								<tr>
-									<td class="column1">2017-09-26 05:57</td>
-									<td class="column2">200396</td>
-									<td class="column3">Game Console Controller</td>
-									<td class="column4">$22.00</td>
-									<td class="column5">2</td>
-									<td class="column6">$44.00</td>
+									<td class="column1">Pertama kali muncul</td>
+									<td class="column2">1972, 47 Tahun yang lalu (dari tahun 2019)</td>
 								</tr>
 								<tr>
-									<td class="column1">2017-09-25 23:06</td>
-									<td class="column2">200392</td>
-									<td class="column3">USB 3.0 Cable</td>
-									<td class="column4">$10.00</td>
-									<td class="column5">3</td>
-									<td class="column6">$30.00</td>
+									<td class="column1">Rilis Terakhir</td>
+									<td class="column2">C18 / Juni 2018, 8 bulan yang lalu</td>
 								</tr>
 								<tr>
-									<td class="column1">2017-09-24 05:57</td>
-									<td class="column2">200391</td>
-									<td class="column3">Smartwatch 4.0 LTE Wifi</td>
-									<td class="column4">$199.00</td>
-									<td class="column5">6</td>
-									<td class="column6">$1494.00</td>
+									<td class="column1">Extensi File</td>
+									<td class="column2">.c .h</td>
 								</tr>
 								<tr>
-									<td class="column1">2017-09-23 05:57</td>
-									<td class="column2">200390</td>
-									<td class="column3">Camera C430W 4k</td>
-									<td class="column4">$699.00</td>
-									<td class="column5">1</td>
-									<td class="column6">$699.00</td>
-								</tr>
-								<tr>
-									<td class="column1">2017-09-22 05:57</td>
-									<td class="column2">200389</td>
-									<td class="column3">Macbook Pro Retina 2017</td>
-									<td class="column4">$2199.00</td>
-									<td class="column5">1</td>
-									<td class="column6">$2199.00</td>
-								</tr>
-								<tr>
-									<td class="column1">2017-09-21 05:57</td>
-									<td class="column2">200388</td>
-									<td class="column3">Game Console Controller</td>
-									<td class="column4">$999.00</td>
-									<td class="column5">1</td>
-									<td class="column6">$999.00</td>
-								</tr>
-								<tr>
-									<td class="column1">2017-09-19 05:57</td>
-									<td class="column2">200387</td>
-									<td class="column3">iPhone X 64Gb Grey</td>
-									<td class="column4">$999.00</td>
-									<td class="column5">1</td>
-									<td class="column6">$999.00</td>
-								</tr>
-								<tr>
-									<td class="column1">2017-09-18 05:57</td>
-									<td class="column2">200386</td>
-									<td class="column3">iPhone X 64Gb Grey</td>
-									<td class="column4">$999.00</td>
-									<td class="column5">1</td>
-									<td class="column6">$999.00</td>
-								</tr>
-								<tr>
-									<td class="column1">2017-09-22 05:57</td>
-									<td class="column2">200389</td>
-									<td class="column3">Macbook Pro Retina 2017</td>
-									<td class="column4">$2199.00</td>
-									<td class="column5">1</td>
-									<td class="column6">$2199.00</td>
-								</tr>
-								<tr>
-									<td class="column1">2017-09-21 05:57</td>
-									<td class="column2">200388</td>
-									<td class="column3">Game Console Controller</td>
-									<td class="column4">$999.00</td>
-									<td class="column5">1</td>
-									<td class="column6">$999.00</td>
-								</tr>
-								<tr>
-									<td class="column1">2017-09-19 05:57</td>
-									<td class="column2">200387</td>
-									<td class="column3">iPhone X 64Gb Grey</td>
-									<td class="column4">$999.00</td>
-									<td class="column5">1</td>
-									<td class="column6">$999.00</td>
-								</tr>
-								<tr>
-									<td class="column1">2017-09-18 05:57</td>
-									<td class="column2">200386</td>
-									<td class="column3">iPhone X 64Gb Grey</td>
-									<td class="column4">$999.00</td>
-									<td class="column5">1</td>
-									<td class="column6">$999.00</td>
+									<td class="column1">Compiler</td>
+									<td class="column2">GCC/gcc (untuk os berbasis UNIX seperti Linux biasanya compiler sudah terdapat dari bawaan, sedangkan untuk windows harus mendownload aplikasi pihak ketiga seperti MinGW, Cygwin atau memakai Windows Subsytem For Linux (Fitur di Windows 10). Daftar Lengkapnya bisa dilihat <a href="https://go.programming.my.id/list-of-c-compiler">disini</a></td>
 								</tr>
 						</tbody>
 					</table>
@@ -154,29 +64,54 @@ table: true
 	</div>
 </div>
 
+<br/><br/>
+## Bahasa C++
+<br/>
 
-
-## C
-
-| Nama Bahasa Pemrograman | C (/siː/, as in the letter c)                                                                                                                                                                                                                                                                                                       |
-|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Paradigma Pemrograman   | Imperative (procedural), structured                                                                                                                                                                                                                                                                                                 |
-| Developer               | Dennis Ritchie & Bell Labs(creators); ANSI X3J11 (ANSI C); ISO/IEC JTC1/SC22/WG14 (ISO C)                                                                                                                                                                                                                                           |
-| Pertama kali muncul     | 1972; 47 Tahun yang lalu (dari tahun 2019)                                                                                                                                                                                                                                                                                          |
-| Rilis Terakhir          | C18 / Juni 2018; 8 bulan yang lalu                                                                                                                                                                                                                                                                                                  |
-| Extensi File            | .c .h                                                                                                                                                                                                                                                                                                                               |
-| Compiler                | GCC/gcc (untuk os berbasis UNIX seperti Linux biasanya compiler sudah terdapat dari bawaan, sedangkan untuk windows harus mendownload aplikasi pihak ketiga seperti MinGW, Cygwin atau memakai Windows Subsytem For Linux (Fitur di Windows 10). Daftar Lengkapnya bisa dilihat di https://go.programming.my.id/list-of-c-compiler) |
-
-## C++
-
-| Nama Bahasa Pemrograman | C++ / C-plus-plus / (/ˌsiːˌplʌsˈplʌs/ "see plus plus")                                                         |
-|-------------------------|----------------------------------------------------------------------------------------------------------------|
-| Paradigma Pemrograman   | Multi-paradigma : procedural, functional, object-oriented                                                      |
-| Developer               | Bjarne Stroustrup                                                                                              |
-| Pertama kali muncul     | 1985; 34 Tahun yang lalu (dari tahun 2019)                                                                     |
-| Rilis Terakhir          | ISO/IEC 14882:2017 / 1 Desember 2017; 14 bulan yang lalu                                                       |
-| Extensi File            | .c, .cc, .cpp, .cxx, .c++, .h, .hh, .hpp, .hxx, .h++                                                           |
-| Compiler                | GCC/g++ (sama seperti C). Daftar Lengkapnya bisa dilihat di https://go.programming.my.id/list-of-c++-compiler) |
+<div class="container">
+	<div class="row">
+		<div class="md-12">
+			<div class="wrap-table100">
+				<div class="table100">
+					<table>
+						<thead>
+							<tr class="table100-head">
+								<th class="column1">Nama Bahasa Pemrograman</th>
+								<th class="column2">C++ / C-plus-plus / (/ˌsiːˌplʌsˈplʌs/ “see plus plus”)</th>
+							</tr>
+						</thead>
+						<tbody>
+								<tr>
+									<td class="column1">Paradigma Pemrograman</td>
+									<td class="column2">Multi-paradigma : procedural, functional, object-oriented</td>
+								</tr>
+								<tr>
+									<td class="column1">Developer</td>
+									<td class="column2">Bjarne Stroustrup</td>
+								</tr>
+								<tr>
+									<td class="column1">Pertama kali muncul</td>
+									<td class="column2">1985, 34 Tahun yang lalu (dari tahun 2019)</td>
+								</tr>
+								<tr>
+									<td class="column1">Rilis Terakhir</td>
+									<td class="column2">ISO/IEC 14882:2017 / 1 Desember 2017, 14 bulan yang lalu</td>
+								</tr>
+								<tr>
+									<td class="column1">Extensi File</td>
+									<td class="column2">.c, .cc, .cpp, .cxx, .c++, .h, .hh, .hpp, .hxx, .h++</td>
+								</tr>
+								<tr>
+									<td class="column1">Compiler</td>
+									<td class="column2">GCC/g++ (penjelasan sama seperti C). Daftar Lengkapnya bisa dilihat <a href="https://go.programming.my.id/list-of-c++-compiler">disini</a></td>
+								</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
 
 <br/><br/>
 <div id="generic_price_table">   
