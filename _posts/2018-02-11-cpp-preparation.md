@@ -54,17 +54,6 @@ tablevs: tpricing
         </div>
         
         <div class="pricing-plan">
-        <img src="https://s28.postimg.cc/ju5bnc3x9/plane.png" alt="" class="pricing-img">
-        <h2 class="pricing-header">Small team</h2>
-        <ul class="pricing-features">
-            <li class="pricing-features-item">Never sleeps</li>
-            <li class="pricing-features-item">Multiple workers for more powerful apps</li>
-        </ul>
-        <span class="pricing-price">$150</span>
-        <a href="#/" class="pricing-button is-featured">Free trial</a>
-        </div>
-        
-        <div class="pricing-plan">
         <img src="https://s21.postimg.cc/tpm0cge4n/space-ship.png" alt="" class="pricing-img">
         <h2 class="pricing-header">Enterprise</h2>
         <ul class="pricing-features">
