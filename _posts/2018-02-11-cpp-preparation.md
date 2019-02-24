@@ -27,34 +27,34 @@ table: true
 					<table>
 						<thead>
 							<tr class="table100-head">
-								<th class="column1">Nama Bahasa Pemrograman</th>
-								<th class="column2">C (/siː/, as in the letter c)</th>
+								<th>Nama Bahasa Pemrograman</th>
+								<th>C (/siː/, as in the letter c)</th>
 							</tr>
 						</thead>
 						<tbody>
 								<tr>
-									<td class="column1">Paradigma Pemrograman</td>
-									<td class="column2">Imperative (procedural), structured</td>
+									<td>Paradigma Pemrograman</td>
+									<td>Imperative (procedural), structured</td>
 								</tr>
 								<tr>
-									<td class="column1">Developer</td>
-									<td class="column2">Dennis Ritchie & Bell Labs(creators); ANSI X3J11 (ANSI C); ISO/IEC JTC1/SC22/WG14 (ISO C)</td>
+									<td>Developer</td>
+									<td>Dennis Ritchie & Bell Labs(creators); ANSI X3J11 (ANSI C); ISO/IEC JTC1/SC22/WG14 (ISO C)</td>
 								</tr>
 								<tr>
-									<td class="column1">Pertama kali muncul</td>
-									<td class="column2">1972, 47 Tahun yang lalu (dari tahun 2019)</td>
+									<td>Pertama kali muncul</td>
+									<td>1972, 47 Tahun yang lalu (dari tahun 2019)</td>
 								</tr>
 								<tr>
-									<td class="column1">Rilis Terakhir</td>
-									<td class="column2">C18 / Juni 2018, 8 bulan yang lalu</td>
+									<td>Rilis Terakhir</td>
+									<td>C18 / Juni 2018, 8 bulan yang lalu</td>
 								</tr>
 								<tr>
-									<td class="column1">Extensi File</td>
-									<td class="column2">.c .h</td>
+									<td>Extensi File</td>
+									<td>.c .h</td>
 								</tr>
 								<tr>
-									<td class="column1">Compiler</td>
-									<td class="column2">GCC/gcc (untuk os berbasis UNIX seperti Linux biasanya compiler sudah terdapat dari bawaan, sedangkan untuk windows harus mendownload aplikasi pihak ketiga seperti MinGW, Cygwin atau memakai Windows Subsytem For Linux (Fitur di Windows 10). Daftar Lengkapnya bisa dilihat <a href="https://go.programming.my.id/list-of-c-compiler">disini</a></td>
+									<td>Compiler</td>
+									<td>GCC/gcc (untuk os berbasis UNIX seperti Linux biasanya compiler sudah terdapat dari bawaan, sedangkan untuk windows harus mendownload aplikasi pihak ketiga seperti MinGW, Cygwin atau memakai Windows Subsytem For Linux (Fitur di Windows 10). Daftar Lengkapnya bisa dilihat <a href="https://go.programming.my.id/list-of-c-compiler">disini</a></td>
 								</tr>
 						</tbody>
 					</table>
@@ -76,34 +76,34 @@ table: true
 					<table>
 						<thead>
 							<tr class="table100-head">
-								<th class="column1">Nama Bahasa Pemrograman</th>
-								<th class="column2">C++ / C-plus-plus / (/ˌsiːˌplʌsˈplʌs/ “see plus plus”)</th>
+								<th>Nama Bahasa Pemrograman</th>
+								<th>C++ / C-plus-plus / (/ˌsiːˌplʌsˈplʌs/ “see plus plus”)</th>
 							</tr>
 						</thead>
 						<tbody>
 								<tr>
-									<td class="column1">Paradigma Pemrograman</td>
-									<td class="column2">Multi-paradigma : procedural, functional, object-oriented</td>
+									<td>Paradigma Pemrograman</td>
+									<td>Multi-paradigma : procedural, functional, object-oriented</td>
 								</tr>
 								<tr>
-									<td class="column1">Developer</td>
-									<td class="column2">Bjarne Stroustrup</td>
+									<td>Developer</td>
+									<td>Bjarne Stroustrup</td>
 								</tr>
 								<tr>
-									<td class="column1">Pertama kali muncul</td>
-									<td class="column2">1985, 34 Tahun yang lalu (dari tahun 2019)</td>
+									<td>Pertama kali muncul</td>
+									<td>1985, 34 Tahun yang lalu (dari tahun 2019)</td>
 								</tr>
 								<tr>
-									<td class="column1">Rilis Terakhir</td>
-									<td class="column2">ISO/IEC 14882:2017 / 1 Desember 2017, 14 bulan yang lalu</td>
+									<td>Rilis Terakhir</td>
+									<td>ISO/IEC 14882:2017 / 1 Desember 2017, 14 bulan yang lalu</td>
 								</tr>
 								<tr>
-									<td class="column1">Extensi File</td>
-									<td class="column2">.c, .cc, .cpp, .cxx, .c++, .h, .hh, .hpp, .hxx, .h++</td>
+									<td>Extensi File</td>
+									<td>.c, .cc, .cpp, .cxx, .c++, .h, .hh, .hpp, .hxx, .h++</td>
 								</tr>
 								<tr>
-									<td class="column1">Compiler</td>
-									<td class="column2">GCC/g++ (penjelasan sama seperti C). Daftar Lengkapnya bisa dilihat <a href="https://go.programming.my.id/list-of-c++-compiler">disini</a></td>
+									<td>Compiler</td>
+									<td>GCC/g++ (penjelasan sama seperti C). Daftar Lengkapnya bisa dilihat <a href="https://go.programming.my.id/list-of-c++-compiler">disini</a></td>
 								</tr>
 						</tbody>
 					</table>
