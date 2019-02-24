@@ -16,13 +16,12 @@ table: true
 
 >Sumber : Wikipedia
 
-<br/><br/>
-## Bahasa C
 <br/>
+## Bahasa C
 <table class="table">
   	<thead class="thead-dark">
 		<tr>
-			<th>Nama Bahasa Pemrograman</th>
+			<th>Nama</th>
 			<th>C (/siː/, as in the letter c)</th>
 		</tr>
 	</thead>
@@ -54,14 +53,12 @@ table: true
 	</tbody>
 </table>
 
-<br/><br/>
-## Bahasa C++
 <br/>
-
+## Bahasa C++
 <table class="table">
   	<thead class="thead-dark">
 		<tr>
-			<th>Nama Bahasa Pemrograman</th>
+			<th>Nama</th>
 			<th>C++ / C-plus-plus / (/ˌsiːˌplʌsˈplʌs/ “see plus plus”)</th>
 		</tr>
 	</thead>
