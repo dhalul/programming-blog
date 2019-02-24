@@ -73,13 +73,13 @@ tablevs: tpricing
                             	<li><span>Prosedural</span></li>
                                 <li><span>Multi Platform</span> (Desktop)</li>
                                 <li>Sangat <span>Ringan</span></li>
-                                <li>Dipengaruhi oleh <span>B (BCPL,CPL), ALGOL 68, Assembly</span></li>
-                                <li>Mempengaruhi <span>awk, csh, C++, Objective-C, dll</span></li>
+                                <li>Dipengaruhi oleh <span>B, Assembly..</span></li>
+                                <li>Mempengaruhi <span>C++, Objective-C..</span></li>
                                 <li>Baik untuk <span>System Level Code</span></li>
                             </ul>
                         </div>
                         <div class="generic_price_btn clearfix">
-                        	<a class="https://id.wikipedia.org/wiki/C_(bahasa_pemrograman)" href="">Lihat di Wikipedia</a>
+                        	<a class="" href="https://go.programming.my.id/c-wiki" target="_blank">Lihat di Wikipedia</a>
                         </div>
                     </div>
                 </div>
@@ -103,13 +103,13 @@ tablevs: tpricing
                             	<li>Mendukung <span>OOP</span></li>
                                 <li><span>Multi Platform</span> (Desktop)</li>
                                 <li><span>Ringan</span></li>
-                                <li>Dipengaruhi oleh <span>C, Simula, Ada 83, ALGOL 68, CLU, ML</span></li>
-                                <li>Mempengaruhi <span>C#, Java, PHP, D</span></li>
-                                <li>Baik untuk <span>Server Side Applications, drivers, networking, dll</span></li>
+                                <li>Dipengaruhi oleh <span>C, Simula, CLU..</span></li>
+                                <li>Mempengaruhi <span>C#, Java, D..</span></li>
+                                <li>Baik untuk <span>Drivers, Networking, dll</span></li>
                             </ul>
                         </div>
                         <div class="generic_price_btn clearfix">
-                        	<a class="https://id.wikipedia.org/wiki/C++" href="">Lihat di Wikipedia</a>
+                        	<a class="" href="https://go.programming.my.id/cpp-wiki" target="_blank">Lihat di Wikipedia</a>
                         </div>
                     </div>
                 </div>
