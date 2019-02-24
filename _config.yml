@@ -1,7 +1,7 @@
 # Site
 name: "Belajar Programming"
-description: "No two things have been combined better than Knowledge and Patience."
-meta_description: "No two things have been combined better than Knowledge and Patience."
+description: "Tidak ada kombinasi yang lebih baik selain ilmu dan kesabaran."
+meta_description: "Tidak ada kombinasi yang lebih baik selain ilmu dan kesabaran."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -19,7 +19,7 @@ authors:
     email: dhal@programming.my.id
     web: http://programming.my.id
     twitter: https://twitter.com/AfdhalNasution
-    description: "Author of Programming.my.id<br/>Tidak ada yang spesial :D"
+    description: "Author of Programming.my.id<br/>"
   john:
     name: John
     display_name: John
