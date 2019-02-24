@@ -23,11 +23,12 @@
 <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
     
 <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
-
 {% if page.tablevs =="tpricing" %}
 <link href="{{ site.baseurl }}/assets/css/table-vs.css" rel="stylesheet">
 {% endif %}
-    
+{% if page.table %}
+<link href="{{ site.baseurl }}/assets/css/table.css" rel="stylesheet">
+{% endif %}
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 	
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
