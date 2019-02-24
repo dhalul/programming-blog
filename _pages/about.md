@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tentang Saya
+title: Tentang Blog Ini
 permalink: /about
 comments: false
 ---
