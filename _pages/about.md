@@ -10,8 +10,10 @@ comments: false
 
 <h4>Credits : </h4>
 
-<p>Template Utama (Mediumish) : <a href="https://www.wowthemes.net/mediumish-free-jekyll-template">https://www.wowthemes.net/mediumish-free-jekyll-template</a></p>
-<p>Pricing Table (Sahar Ali Raza) : <a href="https://codepen.io/mrsahar/">https://codepen.io/mrsahar/</a></p>
+<p>Hosted on <a href="https://pages.github.com/">Github Pages</a></p>
+<p>Jekyll : <a href="https://www.wowthemes.net/mediumish-free-jekyll-template">https://jekyllrb.com</a></p>
+<p>Template Utama (Mediumish) : <a href="https://www.wowthemes.net/mediumish-free-jekyll-template">https://www.wowthemes.net</a></p>
+<p>Pricing Table (Sahar Ali Raza) : <a href="https://codepen.io/mrsahar/">https://codepen.io/mrsahar</a></p>
 <br/><br/>
 <h4>Punya pertanyaan atau ingin diskusi?</h4>
 
