@@ -27,29 +27,29 @@ Untuk penggunaan umum (seperti pembelajaran), melakukan input output data, opera
 
 Di operating system berbasis Linux sendiri biasanya sudah tersedia GCC dari bawaan sedangkan operating system lain kita diharuskan untuk menggunakan aplikasi pihak ketiga.
 
-    + Untuk Windows :
-    Windows tidak memiliki compiler bawaan untuk bahasa C/C++. Adapun beberapa compiler yang bisa digunakan adalah MinGW, WSL dan Cygwin.
++ Untuk Windows :
+Windows tidak memiliki compiler bawaan untuk bahasa C/C++. Adapun beberapa compiler yang bisa digunakan adalah MinGW, WSL dan Cygwin.
 
-        - MinGW (Minimalist GNU for Windows) merupakan software hasil portingan dari GNU GCC, GNU BinUtils dan beberapa native library lain yang bisa kita pakai untuk dapat menggunakan beberapa API dari OS Windows.
-        MinGW sendiri memiliki 2 versi yaitu :
-            * MinGW, yang merupakan port GCC secara langsung ke Windows. Tidak semua Windows API di support oleh compiler ini (tetapi untuk kebanyakan penggunan, itu sudah lumayan cukup) dan compiler ini hanya mendukung program 32-bit (Program hasil compile tetap bisa berjalan di Windows berbasis 64-bit, tetapi ada kemungkinan beberapa tidak bisa, dan kita tidak bisa melakukan compile program menjadi 64-bit)
-            * MinGW-w64, adalah Pengembangan dari MinGW yang support 32-bit dan 64-bit, dan mendukung lebih banyak Windows API (Tidak semua, tetapi hampir semua dapat bekerja dengan lebih baik dari MinGW).<br/>
+    - MinGW (Minimalist GNU for Windows) merupakan software hasil portingan dari GNU GCC, GNU BinUtils dan beberapa native library lain yang bisa kita pakai untuk dapat menggunakan beberapa API dari OS Windows.
+    MinGW sendiri memiliki 2 versi yaitu :
+        * MinGW, yang merupakan port GCC secara langsung ke Windows. Tidak semua Windows API di support oleh compiler ini (tetapi untuk kebanyakan penggunan, itu sudah lumayan cukup) dan compiler ini hanya mendukung program 32-bit (Program hasil compile tetap bisa berjalan di Windows berbasis 64-bit, tetapi ada kemungkinan beberapa tidak bisa, dan kita tidak bisa melakukan compile program menjadi 64-bit)
+        * MinGW-w64, adalah Pengembangan dari MinGW yang support 32-bit dan 64-bit, dan mendukung lebih banyak Windows API (Tidak semua, tetapi hampir semua dapat bekerja dengan lebih baik dari MinGW).<br/>
 
-            Dari beberapa penjelasan yang saya baca dari Forum, MinGW sudah tidak dikembangkan lagi. MinGW-w64 merupakan hasil fork dari MinGW (Pengembangan dari Source Code asli MinGW) dan masih tetap di maintain sampai sekarang.
+        Dari beberapa penjelasan yang saya baca dari Forum, MinGW sudah tidak dikembangkan lagi. MinGW-w64 merupakan hasil fork dari MinGW (Pengembangan dari Source Code asli MinGW) dan masih tetap di maintain sampai sekarang.
 
-        - Sedangkan Cygwin sendiri adalah software yang digunakan untuk dapat menggunakan aplikasi berbasis UNIX, serta membuat windows agar terlihat seperti benar benar terdapat pada lingkungan UNIX. Jadi pada Cygwin software yang dilakukan portingan bukan hanya GCC tetapi juga beberapa aplikasi lain.
+    - Sedangkan Cygwin sendiri adalah software yang digunakan untuk dapat menggunakan aplikasi berbasis UNIX, serta membuat windows agar terlihat seperti benar benar terdapat pada lingkungan UNIX. Jadi pada Cygwin software yang dilakukan portingan bukan hanya GCC tetapi juga beberapa aplikasi lain.
 
-        - Windows Subsystem for Linux merupakan fitur yang telah disediakan oleh Microsoft pada Operating System nya yaitu Windows. Kita bisa menghidupkan opsi ini dengan mencari "Turn Windows features on or off" kemudian pada kolom dialog cari "Windows Subsystem for Linux" dibagian bawah, setelah itu ceklis kemudian klik OK.
+    - Windows Subsystem for Linux merupakan fitur yang telah disediakan oleh Microsoft pada Operating System nya yaitu Windows. Kita bisa menghidupkan opsi ini dengan mencari "Turn Windows features on or off" kemudian pada kolom dialog cari "Windows Subsystem for Linux" dibagian bawah, setelah itu ceklis kemudian klik OK.
 
-        <center><img src="https://programming.my.id/assets/images/cpp/wsl/feature-wsl.png" width="70%"/></center>
+    <center><img src="https://programming.my.id/assets/images/cpp/wsl/feature-wsl.png" width="70%"/></center>
 
-        Jika anda ingin sekalian merasakan pengalaman menggunakan lingkungan UNIX (seperti menggunakan linux) maka silahkan menginstall Cygwin/Windows Subsystem for Linux atau silahkan menginstall linux sekalian. Tapi jika anda hanya ingin menggunakan Compiler GCC maka ada baiknya anda menginstall MinGW/MinGW-w64 saja.
+    Jika anda ingin sekalian merasakan pengalaman menggunakan lingkungan UNIX (seperti menggunakan linux) maka silahkan menginstall Cygwin/Windows Subsystem for Linux atau silahkan menginstall linux sekalian. Tapi jika anda hanya ingin menggunakan Compiler GCC maka ada baiknya anda menginstall MinGW/MinGW-w64 saja.
 
-    - Link Download untuk MinGW
-    - Link Download untuk Cygwin
+- Link Download untuk MinGW
+- Link Download untuk Cygwin
 
-    Tahapan install MinGW : 
+Tahapan install MinGW : 
 
-    Untuk Mac
+Untuk Mac
 
-    Mac :
+Mac :
