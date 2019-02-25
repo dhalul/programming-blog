@@ -16,7 +16,7 @@ table: true
 
 >Sumber : Wikipedia
 
-<br/>
+<hr/>
 ## Bahasa C
 <table class="table">
   	<thead class="thead-dark">
@@ -53,7 +53,7 @@ table: true
 	</tbody>
 </table>
 
-<br/>
+<hr/>
 ## Bahasa C++
 <table class="table">
   	<thead class="thead-dark">
@@ -90,7 +90,7 @@ table: true
 	</tbody>
 </table>
 
-<br/><br/>
+<hr/>
 <div id="generic_price_table">   
 <section>
         <div class="container">
@@ -170,8 +170,10 @@ table: true
         </div>
     </section>
 </div>
-
-<br/><br/>
+Untuk bahasa pemrograman C dan C++ keduanya memiliki kelebihan masing-masing. C++ sendiri memiliki hampir keseluruhan fungsi dalam c (walaupun penulisan syntax sedikit berbeda) serta memiliki fitur lain yang tidak dimiliki oleh C contohnya penggunaan String. Dalam bahasa C, string biasanya didefiniskan dan disimpan didalam variable dalam bentuk Array of Char (kumpulan dari beberapa array karakter menjadi satu variable) sedangkan C++ memiliki Variable String sendiri dan tetap memiliki Array of Char. Walaupun C++ memiliki fitur yang lebih banyak dari C, tapi tetap saja penggunaan bahasa C masih banyak sekarang ini, karena biasanya bahasa ini digunakan dalam pemrograman tingkat sistem (System Level Code) serta versi nya sendiri masih dirilis sampai sekarang (C18, pada Juni 2018).
+Menurut pengalaman saya ketika kuliah, di kampus kami biasanya kami belajar dasar pemrograman menggunakan Bahasa C (Prosedural) kemudian pada semester berikutnya diikuti PBO (Pemrograman Berorientasi Objek) menggunakan Bahasa C++.
+<hr/>
 
 ## Compiler / IDE
 
+<a href="https://programming.my.id/cpp-compiler/">Klik disini untuk lanjut ke Postingan selanjutnya</a>
